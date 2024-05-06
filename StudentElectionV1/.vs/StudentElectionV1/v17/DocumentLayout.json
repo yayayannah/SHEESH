@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\movies\\StudentElectionV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\registercandidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\registercandidate.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\votingproper.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\votingproper.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\votingproper.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\votingproper.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\registervoter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\registervoter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\registervoter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\registervoter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\registercandidate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\registercandidate.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\registeruser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\registeruser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|d:\\movies\\studentelectionv1\\studentelectionv1\\registeruser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4B678AA4-050D-4EA1-9FE9-F173B5BD8DF5}|StudentElectionV1\\StudentElectionV1.csproj|solutionrelative:studentelectionv1\\registeruser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotingProper.xaml.cs",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\VotingProper.xaml.cs",
+              "RelativeDocumentMoniker": "StudentElectionV1\\VotingProper.xaml.cs",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\VotingProper.xaml.cs",
+              "RelativeToolTip": "StudentElectionV1\\VotingProper.xaml.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAAwLUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T00:25:28.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterCandidate.xaml.cs",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterCandidate.xaml.cs",
+              "RelativeDocumentMoniker": "StudentElectionV1\\RegisterCandidate.xaml.cs",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterCandidate.xaml.cs",
+              "RelativeToolTip": "StudentElectionV1\\RegisterCandidate.xaml.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAowEoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T01:49:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterCandidate.xaml",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterCandidate.xaml",
+              "RelativeDocumentMoniker": "StudentElectionV1\\RegisterCandidate.xaml",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterCandidate.xaml",
+              "RelativeToolTip": "StudentElectionV1\\RegisterCandidate.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T01:28:48.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterUser.xaml.cs",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterUser.xaml.cs",
+              "RelativeDocumentMoniker": "StudentElectionV1\\RegisterUser.xaml.cs",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterUser.xaml.cs",
+              "RelativeToolTip": "StudentElectionV1\\RegisterUser.xaml.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAwwDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:01:20.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUser.xaml",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterUser.xaml",
+              "RelativeDocumentMoniker": "StudentElectionV1\\RegisterUser.xaml",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterUser.xaml",
+              "RelativeToolTip": "StudentElectionV1\\RegisterUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T00:35:54.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVoter.xaml",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterVoter.xaml",
+              "RelativeDocumentMoniker": "StudentElectionV1\\RegisterVoter.xaml",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterVoter.xaml",
+              "RelativeToolTip": "StudentElectionV1\\RegisterVoter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T03:59:29.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVoter.xaml.cs",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterVoter.xaml.cs",
+              "RelativeDocumentMoniker": "StudentElectionV1\\RegisterVoter.xaml.cs",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\RegisterVoter.xaml.cs",
+              "RelativeToolTip": "StudentElectionV1\\RegisterVoter.xaml.cs",
+              "ViewState": "AQIAAMYAAAAAAAAAAAAgwJkAAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T04:11:25.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StudentElectionV1\\MainWindow.xaml",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\MainWindow.xaml",
+              "RelativeToolTip": "StudentElectionV1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-19T03:59:29.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StudentElectionV1\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StudentElectionV1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAwFcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:59:29.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VotingProper.xaml",
+              "DocumentMoniker": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\VotingProper.xaml",
+              "RelativeDocumentMoniker": "StudentElectionV1\\VotingProper.xaml",
+              "ToolTip": "D:\\movies\\StudentElectionV1\\StudentElectionV1\\VotingProper.xaml",
+              "RelativeToolTip": "StudentElectionV1\\VotingProper.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T23:53:06.065Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

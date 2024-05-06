@@ -1,0 +1,141 @@
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.exe
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.deps.json
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.runtimeconfig.json
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.pdb
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\MySql.Data.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\ZstdSharp.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.csproj.AssemblyReference.cache
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\LoginWindow.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterCandidate.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterUser.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterVoter.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\UserManagement.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\VotingProper.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\App.g.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1_MarkupCompile.cache
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1_MarkupCompile.lref
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\LoginWindow.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\MainWindow.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterCandidate.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterUser.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterVoter.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\UserManagement.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\VotingProper.baml
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.g.resources
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.GeneratedMSBuildEditorConfig.editorconfig
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.AssemblyInfoInputs.cache
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.AssemblyInfo.cs
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.csproj.CoreCompileInputs.cache
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentE.E3679B01.Up2Date
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\refint\StudentElectionV1.dll
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.pdb
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.genruntimeconfig.cache
+G:\IT Class\c#\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\ref\StudentElectionV1.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.exe
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.deps.json
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.runtimeconfig.json
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.pdb
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.csproj.AssemblyReference.cache
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\LoginWindow.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterCandidate.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterUser.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterVoter.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\UserManagement.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\VotingProper.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\App.g.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1_MarkupCompile.cache
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1_MarkupCompile.lref
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\LoginWindow.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\MainWindow.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterCandidate.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterUser.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterVoter.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\UserManagement.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\VotingProper.baml
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.g.resources
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.AssemblyInfoInputs.cache
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.AssemblyInfo.cs
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.csproj.CoreCompileInputs.cache
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentE.E3679B01.Up2Date
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.dll
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\refint\StudentElectionV1.dll
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.pdb
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.genruntimeconfig.cache
+E:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\ref\StudentElectionV1.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.exe
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.deps.json
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.runtimeconfig.json
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\StudentElectionV1.pdb
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\movies\StudentElectionV1\StudentElectionV1\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.csproj.AssemblyReference.cache
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterCandidate.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterUser.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterVoter.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\UserManagement.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\VotingProper.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\App.g.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1_MarkupCompile.cache
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1_MarkupCompile.lref
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterCandidate.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterUser.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\RegisterVoter.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\UserManagement.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\VotingProper.baml
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.g.resources
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.AssemblyInfoInputs.cache
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.AssemblyInfo.cs
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.csproj.CoreCompileInputs.cache
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentE.E3679B01.Up2Date
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.dll
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\refint\StudentElectionV1.dll
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.pdb
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\StudentElectionV1.genruntimeconfig.cache
+D:\movies\StudentElectionV1\StudentElectionV1\obj\Debug\net8.0-windows\ref\StudentElectionV1.dll
